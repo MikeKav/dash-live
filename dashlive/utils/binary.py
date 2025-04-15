@@ -21,7 +21,7 @@
 #############################################################################
 import base64
 from binascii import unhexlify, b2a_hex
-from typing import AbstractSet, ClassVar, Union, cast
+from typing import AbstractSet, ClassVar, cast
 
 from dashlive.utils.json_object import JsonObject
 
